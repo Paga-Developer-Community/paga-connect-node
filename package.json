@@ -1,0 +1,54 @@
+{
+  "_from": "paga-connect",
+  "_id": "paga-connect@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-80LijRJyaHDuxI/Bo/7g/no2L96ry9KocuZZG3aQBb+/OS5Z5JkjtA+j/WoMGupRcMf0rKf7NdM1jRvoa32lSA==",
+  "_location": "/paga-connect",
+  "_phantomChildren": {
+    "follow-redirects": "1.5.10",
+    "is-buffer": "2.0.4"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "paga-connect",
+    "name": "paga-connect",
+    "escapedName": "paga-connect",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/paga-connect/-/paga-connect-1.0.2.tgz",
+  "_shasum": "9edc9253f7c291144184948bd1bc429f3f5402c5",
+  "_spec": "paga-connect",
+  "_where": "/Users/nnamdinwabuokei/Documents/@types-paga-business/check",
+  "author": {
+    "name": "Paga"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "deprecated": false,
+  "description": "Paga is a simple way to send and receive money",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  },
+  "keywords": [
+    "payment",
+    "API",
+    "naira",
+    "Paga"
+  ],
+  "license": "ISC",
+  "main": "PagaConnectClient.js",
+  "name": "paga-connect",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "version": "1.0.2"
+}
