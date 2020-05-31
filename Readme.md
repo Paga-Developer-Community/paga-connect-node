@@ -1,4 +1,4 @@
-# PagaConnect Nodejs API Library v1.0.0
+# PagaConnect Nodejs API Library v1.0.3
 
 ## Connect Services exposed by the library
 
