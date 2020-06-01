@@ -1,8 +1,8 @@
 {
-  "name": "paga-merchant",
+  "name": "paga-connect",
   "version": "1.0.3",
   "description": "Paga is a simple way to send and receive money",
-  "main": "PagaMerchantClient.js",
+  "main": "PagaConnectClient.js",
   "scripts": {
     "test": "mocha --reporter spec"
   },
