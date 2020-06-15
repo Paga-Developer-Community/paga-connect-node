@@ -90,10 +90,11 @@ function PagaConnectClient (build) {
  */
 this.merchantPayment = async (access_token = null, reference_number, amount, user_id, product_code, currency) => {
   let response;
+  
 
   try {
     const server = (this.test) ? test_server : live_server
-    merchantPaymentUrl = server + "/paga-webservices/oauth2/secure/merchantPayment"
+    merchantPaymentUrl = server + "/paga-webservices/oauth2/secure/merchantPayment/"
     const credential = "Bearer " + access_token
     let endPointUrl;
 
