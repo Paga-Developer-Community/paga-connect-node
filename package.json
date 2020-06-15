@@ -1,6 +1,6 @@
 {
   "name": "paga-connect",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Paga is a simple way to send and receive money",
   "main": "PagaConnectClient.js",
   "scripts": {

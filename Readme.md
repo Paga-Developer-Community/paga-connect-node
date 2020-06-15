@@ -70,3 +70,7 @@ pagaConnectClient.getUserDetails(response['access_token'],'reference_number').th
     console.log("User Details Response: " + JSON.stringify(response))
 })
 ```
+![GitHub package.json version](https://img.shields.io/github/package-json/v/pagadevcomm/paga-connect-node?style=plastic)
+![npm](https://img.shields.io/npm/v/paga-connect?style=plastic)
+![npm](https://img.shields.io/npm/dm/paga-connect?style=plastic)
+![NPM](https://img.shields.io/npm/l/paga-connect?style=plastic)
